@@ -2,7 +2,7 @@ from setuptools import setup
 
 config = {
     'name': 'instagram-filters',
-    'version': '0.1',
+    'version': '0.1.1',
     'description': 'Instagram-like image filters',
     'license': 'LICENSE.txt',
     'url': 'https://github.com/acoomans/instagram-filters',
